@@ -1,0 +1,2 @@
+A child class should have all method properties like a parent class  
+# Generally solved by multi level inheritance 
